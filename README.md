@@ -1,5 +1,9 @@
 # useful_lib
 useful android lib for myself
+
+# :100: Github Support Emoji
+[EMOJI CHEAT SHEET](https://github.com/liaodongxiaoxiao/useful_lib.git)
+
 # retrofit2
 > 网络请求库 [github地址](https://github.com/square/retrofit)
 > compile 'com.squareup.retrofit2:retrofit:2.1.0'
