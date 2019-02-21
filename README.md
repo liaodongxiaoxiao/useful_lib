@@ -1,6 +1,10 @@
 # useful_lib
 useful android lib for myself
 
+# easypermissions
+https://github.com/googlesamples/easypermissions
+> 用于动态权限申请
+
 # :100: Github Support Emoji
 [EMOJI CHEAT SHEET](https://github.com/liaodongxiaoxiao/useful_lib.git)
 
